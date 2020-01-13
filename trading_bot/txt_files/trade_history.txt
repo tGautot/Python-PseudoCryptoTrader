@@ -1,0 +1,18 @@
+13/01/2020 16:23:57
+Trader has $500.0 and owns the following stocks {'RLC': 1042.535446205171}, for a total capital of 1000.0
+
+13/01/2020 16:25:05
+Trader has $-5.684341886080802e-14 and owns the following stocks {'MAID': 2558.3200944492296, 'ZEC': 6.7064092628840815, 'ZEN': 24.408971994891576, 'WTC': 674.6231396158968}, for a total capital of 999.791492910759
+
+13/01/2020 16:26:15
+Trader has $0.0 and owns the following stocks {'RLC': 1040.3404302045274, 'ZEN': 48.50549416094241}, for a total capital of 1000.1832895986327
+
+13/01/2020 16:27:23
+Trader has $498.73985812877936 and owns the following stocks {'ZEC': 13.396182060939548}, for a total capital of 997.4797162575587
+
+13/01/2020 16:28:29
+Trader has $498.73985812877936 and owns the following stocks {'ZEN': 48.468402150513064}, for a total capital of 997.4797162575587
+
+13/01/2020 16:29:36
+Trader has $0.0 and owns the following stocks {'MAID': 5123.02053531347, 'ZEN': 48.44487379995456}, for a total capital of 997.964400279064
+
